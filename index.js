@@ -13,5 +13,7 @@ obj = [
         "Id": "3",
         "FirstName": "Mohaned",
         "LastName": "Khaled"
-    },
+    }
 ]
+
+console.log(obj[0].FirstName)
